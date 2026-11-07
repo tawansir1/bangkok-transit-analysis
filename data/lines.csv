@@ -1,0 +1,9 @@
+line,name,system,color,km_per_stop
+sukhumvit,BTS Sukhumvit Line,bts,#6cb33f,1.2
+silom,BTS Silom Line,bts,#00704a,1.2
+blue,MRT Blue Line,mrt,#1a4fa0,1.3
+arl,Airport Rail Link,arl,#c8102e,3.8
+gold,Gold Line,gold,#b8932f,0.6
+boat,Chao Phraya Express Boat (orange flag),boat,#f08a1c,0.9
+ferry,Cross-river ferry,ferry,#8a6d3b,0.3
+walk,Walk,walk,#9aa1ad,0

@@ -1,0 +1,8 @@
+# flag fall 35 THB covers the first km; 3 THB per minute below 6 km/h; 50 THB airport surcharge
+from_km,to_km,thb_per_km
+1,10,6.5
+10,20,7
+20,40,8
+40,60,8.5
+60,80,9
+80,,10.5

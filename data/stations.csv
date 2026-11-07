@@ -1,0 +1,119 @@
+code,name,line,bts_core
+N24,Khu Khot,sukhumvit,0
+N23,Yaek Kor Por Aor,sukhumvit,0
+N22,Royal Thai Air Force Museum,sukhumvit,0
+N21,Bhumibol Adulyadej Hospital,sukhumvit,0
+N20,Saphan Mai,sukhumvit,0
+N19,Sai Yud,sukhumvit,0
+N18,Phahon Yothin 59,sukhumvit,0
+N17,Wat Phra Sri Mahathat,sukhumvit,0
+N16,11th Infantry Regiment,sukhumvit,0
+N15,Bang Bua,sukhumvit,0
+N14,Royal Forest Department,sukhumvit,0
+N13,Kasetsart University,sukhumvit,0
+N12,Sena Nikhom,sukhumvit,0
+N11,Ratchayothin,sukhumvit,0
+N10,Phahon Yothin 24,sukhumvit,0
+N9,Ha Yaek Lat Phrao,sukhumvit,0
+N8,Mo Chit,sukhumvit,1
+N7,Saphan Khwai,sukhumvit,1
+N5,Ari,sukhumvit,1
+N4,Sanam Pao,sukhumvit,1
+N3,Victory Monument,sukhumvit,1
+N2,Phaya Thai,sukhumvit,1
+N1,Ratchathewi,sukhumvit,1
+CEN,Siam,sukhumvit,1
+E1,Chit Lom,sukhumvit,1
+E2,Phloen Chit,sukhumvit,1
+E3,Nana,sukhumvit,1
+E4,Asok,sukhumvit,1
+E5,Phrom Phong,sukhumvit,1
+E6,Thong Lo,sukhumvit,1
+E7,Ekkamai,sukhumvit,1
+E8,Phra Khanong,sukhumvit,1
+E9,On Nut,sukhumvit,1
+E10,Bang Chak,sukhumvit,0
+E11,Punnawithi,sukhumvit,0
+E12,Udom Suk,sukhumvit,0
+E13,Bang Na,sukhumvit,0
+E14,Bearing,sukhumvit,0
+E15,Samrong,sukhumvit,0
+E16,Pu Chao,sukhumvit,0
+E17,Chang Erawan,sukhumvit,0
+E18,Royal Thai Naval Academy,sukhumvit,0
+E19,Pak Nam,sukhumvit,0
+E20,Srinagarindra,sukhumvit,0
+E21,Phraek Sa,sukhumvit,0
+E22,Sai Luat,sukhumvit,0
+E23,Kheha,sukhumvit,0
+W1,National Stadium,silom,1
+CEN,Siam,silom,1
+S1,Ratchadamri,silom,1
+S2,Sala Daeng,silom,1
+S3,Chong Nonsi,silom,1
+S4,Saint Louis,silom,1
+S5,Surasak,silom,1
+S6,Saphan Taksin,silom,1
+S7,Krung Thon Buri,silom,1
+S8,Wongwian Yai,silom,1
+S9,Pho Nimit,silom,0
+S10,Talat Phlu,silom,0
+S11,Wutthakat,silom,0
+S12,Bang Wa,silom,0
+BL02,Charan 13,blue,0
+BL03,Fai Chai,blue,0
+BL04,Bang Khun Non,blue,0
+BL05,Bang Yi Khan,blue,0
+BL06,Sirindhorn,blue,0
+BL07,Bang Phlat,blue,0
+BL08,Bang O,blue,0
+BL09,Bang Pho,blue,0
+BL10,Tao Poon,blue,0
+BL11,Bang Sue,blue,0
+BL12,Kamphaeng Phet,blue,0
+BL13,Chatuchak Park,blue,0
+BL14,Phahon Yothin,blue,0
+BL15,Lat Phrao,blue,0
+BL16,Ratchadaphisek,blue,0
+BL17,Sutthisan,blue,0
+BL18,Huai Khwang,blue,0
+BL19,Thailand Cultural Centre,blue,0
+BL20,Phra Ram 9,blue,0
+BL21,Phetchaburi,blue,0
+BL22,Sukhumvit,blue,0
+BL23,Queen Sirikit National Convention Centre,blue,0
+BL24,Khlong Toei,blue,0
+BL25,Lumphini,blue,0
+BL26,Si Lom,blue,0
+BL27,Sam Yan,blue,0
+BL28,Hua Lamphong,blue,0
+BL29,Wat Mangkon,blue,0
+BL30,Sam Yot,blue,0
+BL31,Sanam Chai,blue,0
+BL32,Itsaraphap,blue,0
+BL01,Tha Phra,blue,0
+BL33,Bang Phai,blue,0
+BL34,Bang Wa,blue,0
+BL35,Phetkasem 48,blue,0
+BL36,Phasi Charoen,blue,0
+BL37,Bang Khae,blue,0
+BL38,Lak Song,blue,0
+A1,Suvarnabhumi Airport,arl,0
+A2,Lat Krabang,arl,0
+A3,Ban Thap Chang,arl,0
+A4,Hua Mak,arl,0
+A5,Ramkhamhaeng,arl,0
+A6,Makkasan,arl,0
+A7,Ratchaprarop,arl,0
+A8,Phaya Thai,arl,0
+G1,Krung Thon Buri,gold,0
+G2,Charoen Nakhon (ICONSIAM),gold,0
+G3,Khlong San,gold,0
+P-CEN,Sathorn Pier,boat,0
+P-N3,Si Phraya Pier,boat,0
+P-N5,Ratchawong Pier,boat,0
+P-N8,Tha Tien Pier,boat,0
+P-N9,Tha Chang Pier,boat,0
+P-N10,Wang Lang Pier,boat,0
+P-N13,Phra Arthit Pier,boat,0
+WATARUN,Wat Arun Pier,ferry,0
