@@ -29,7 +29,7 @@ A third of all fastest routes pass through Siam. Yet if the line is blocked at A
 ![Train vs taxi](charts/5_train_vs_taxi.png)
 
 ## How it works
-- `data/*.csv` hold the stations, links between them, fare tables and the taxi meter.
+- `data/*.csv` hold the stations, links between them, fare tables, the taxi meter and station coordinates (`coords.csv`).
 - `transit.py` builds the network and finds the fastest route with **Dijkstra's algorithm**. A search state is *(station, line you arrived on)*, so changing line adds platform waiting time. Each route is split into rides, one per ticket, and priced with that operator's fare table.
 - `analysis.ipynb` uses **pandas** for the trip table, **networkx** for betweenness centrality and the network drawing, and **matplotlib** for charts.
 
@@ -57,6 +57,9 @@ print(trip.fare, round(trip.minutes))  # 32 THB, about 26 min
 - Travel times assume 2.5 minutes per stop and a 4-minute wait each time you board.
 - Taxi distance is estimated from rail distance (×1.2), not real roads, and ignores tolls.
 - The Purple, Pink, Yellow and Red lines are not included yet.
+
+## Credits
+Station coordinates come from [thailand-public-train-data](https://github.com/Gusb3ll/thailand-public-train-data) (CC0). River pier positions are approximate.
 
 ## Author
 Sirinut Gerdsomchuea (Tawan) — [GitHub](https://github.com/tawansir1)
